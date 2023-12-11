@@ -4,4 +4,8 @@ The Pag-ibig office implements a centralized queuing system for three help desk 
 
 Each help desk station has an option to reset the queuing number based on an inputted number, allowing flexibility in managing the queue during specific situations, such as reorganization or technical issues. This queuing system ensures a single centralized queue number for all help desk stations, while the reset option offers control and adjustment in exceptional circumstances.
 
-This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.
+This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.</br>
+
+Below is the UML Diagram implementing the Singleton Pattern for the Pag-Ibig Office.
+![Singleton Pattern UML](https://github.com/brixcyver/singletonPattern/assets/142380216/6a64b16e-5bee-460c-89a0-da583ddf2fdd)
+
