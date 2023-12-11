@@ -1,6 +1,5 @@
 package singletonPattern;
 
-// HelpDeskStation.java
 import java.util.Random;
 
 public class HelpDeskStation {
